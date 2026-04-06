@@ -9199,7 +9199,7 @@ name = "xybrid-core"
 version = "0.1.0-beta10"
 dependencies = [
  "anyhow",
- "base64 0.21.7",
+ "base64 0.22.1",
  "bincode",
  "byteorder",
  "candle-core 0.8.4",
@@ -9305,7 +9305,7 @@ dependencies = [
 
 [[package]]
 name = "xybrid_flutter"
-version = "0.1.0-beta9"
+version = "0.1.0-beta10"
 dependencies = [
  "android_logger 0.14.1",
  "flutter_rust_bridge",
